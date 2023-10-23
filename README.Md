@@ -29,3 +29,7 @@ pip install -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
 
+**This app can also be accessed at url https://bike-sharing-analysis-slwfmxdkckk2xx739nh4kr.streamlit.app/**
+
+### Screenshot
+![](screenshot.png)
