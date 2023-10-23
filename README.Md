@@ -7,8 +7,16 @@
 ## Setup for Jupyter Notebook
 
 ### Setup environment
+**Install pipenv**
 ```
-pipenv install install numpy pandas matplotlib seaborn jupyter
+pip install --user pipenv
+```
+**Install dependency**
+```
+pipenv install numpy pandas matplotlib seaborn jupyter
+```
+**Run pipenv shell**
+```
 pipenv shell
 ```
 
